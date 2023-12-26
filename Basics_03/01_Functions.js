@@ -22,4 +22,4 @@ function login(username) {
 }
 
 
-console.log(login());
+console.log(login("Mian"));
